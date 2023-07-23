@@ -16,4 +16,4 @@ def all_divisors(n):
         i += 1
     print(res)
 
-all_divisors(190187200)
+all_divisors(190187200) # на выполнение ушло 29.4959 сек
