@@ -114,3 +114,8 @@
 #         min = i
 # print(min, max)
 
+# from random import choice
+#
+# x = choice([True, False])
+#
+# print(x)
